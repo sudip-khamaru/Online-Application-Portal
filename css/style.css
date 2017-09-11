@@ -1,0 +1,324 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	font-family: "Times New Roman";
+}
+
+.top-bar{
+	font-weight: bold;
+}
+
+.oap{
+	font-size: 20px;
+	font-family: "Times New Roman";
+}
+
+.menu{
+	margin-top: 5px;
+	font-size: 17px;
+}
+
+.drop_menu{
+	margin-top: 5px;
+	background: #212F3D;
+}
+
+.drop_menu li a{
+	font-size: 17px;
+	color: #2E86C1;
+}
+
+.portal{
+	margin-top: 70px;
+	background: powderblue;
+	text-align: center;
+	height: 550px;
+	color: gray;
+}
+
+.logo{
+	margin-top: -35px;
+}
+
+.university{
+	color: #000000;
+	font-weight: bold;
+	font-family: "Times New Roman";
+}
+
+.heading{
+	margin-top: 50px;
+	font-weight: bold;
+}
+
+.description{
+	text-decoration: underline;
+	color: #000000;
+}
+
+.application{
+	color: green;
+	font-family: "Candara";
+}
+
+.link{
+	width: 40%;
+	font-size: 20px;
+	font-weight: bold;
+	background: #f20068;
+}
+
+.button{
+	text-align: center;
+	background-color: yellow;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #0599c9;
+	color: black;
+}
+
+#main_form{
+	background: white;
+	font-family: "Times New Roman";
+}
+
+#tab{
+	border: 2px solid black;
+}
+
+#preview{
+	font-family: "Times New Roman";
+}
+
+#congo{
+	font-family: "Times New Roman";
+	margin-top: 10%;
+	text-align: center;
+	color: gray;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+#temp_id{
+	font-family: "Times New Roman";
+	margin-top: 2%;
+	text-align: center;
+	color: gray;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+#message{
+	font-family: "Times New Roman";
+	margin-top: 2%;
+	text-align: center;
+	color: red;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#print_application{
+	font-family: "Times New Roman";
+	margin-top: 4%;
+	margin-left: 40%;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#print_challan{
+	font-family: "Times New Roman";
+	margin-top: 1%;
+	margin-left: 42.5%;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#applicant_login_tab{
+	font-family: "Times New Roman";
+	margin-left: 28%;
+	width: 45%;
+	text-align: center;
+	font-size: 18px;
+}
+
+#applicant_login_title{
+	margin-left: 2%;
+	color: red;
+}
+
+#applicant_login_btn{
+	margin-left: 43%;
+}
+
+#welcome{
+	font-family: "Times New Roman";
+	margin-top: 5%;
+	text-align: center;
+	color: gray;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+#payment_status{
+	font-family: "Times New Roman";
+	margin-top: 1%;
+	text-align: center;
+	color: gray;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+#payment_messege{
+	font-family: "Times New Roman";
+	margin-top: 4%;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+#make_payment{
+	font-family: "Times New Roman";
+	margin-top: 1%;
+	margin-left: 43.4%;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#applicant_challan_tab{
+	font-family: "Times New Roman";
+	margin-left: 28%;
+	width: 45%;
+	text-align: center;
+	font-size: 18px;
+}
+
+#applicant_challan_title{
+	margin-left: 2%;
+	color: red;
+}
+
+#applicant_challan_btn{
+	margin-left: 43%;
+}
+
+#applicant_payment_tab{
+	font-family: "Times New Roman";
+	margin-left: 25%;
+	width: 55%;
+	text-align: center;
+	font-size: 18px;
+}
+
+#applicant_payment_title{
+	margin-left: 7%;
+	color: red;
+}
+
+#applicant_payment_btn{
+	margin-left: 44%;
+}
+
+#final_id{
+	font-family: "Times New Roman";
+	margin-top: 2%;
+	text-align: center;
+	color: gray;
+	font-size: 35px;
+	font-weight: bold;
+}
+
+#success{
+	font-family: "Times New Roman";
+	margin-top: 5%;
+	text-align: center;
+	color: green;
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#back_home{
+	margin-top: 4%;
+	margin-left: 44%;
+}
+
+#comment{
+	font-family: "Times New Roman";
+	margin-top: -2%;
+	margin-left: 42%;
+	color: red;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#applicant_feedback_tab{
+	font-family: "Times New Roman";
+	margin-top: 4%;
+	margin-left: 29%;
+	width: 80%;
+	text-align: center;
+	font-size: 18px;
+}
+
+#applicant_feedback_btn{
+	margin-left: 48%;
+}
+
+#success_comment{
+	font-family: "Times New Roman";
+	margin-top: -2%;
+	margin-left: 45.8%;
+	color: green;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+#feedback_tab{
+	border: 2px solid black;
+	margin-top: 80%;
+}
+
+#heading_title{
+	margin-left: 9.7%;
+}
+
+#app_tab{
+	border: 1px solid black;
+	background: khaki;
+}
+
+.login_portal{
+	margin-top: 3%;
+	/*text-align: center;*/
+	height: 300px;
+	color: gray;
+}
+
+#head_details{
+	margin-top: 15%;
+	margin-left: 40%;
+}
+
+#details{
+	margin-top: -2.8%;
+	margin-left: 53%;
+}
+
+#head_faq{
+	margin-top: 3%;
+	margin-left: 45%;
+}
+
+#faq_details{
+	margin-top: -2.8%;
+	margin-left: 53%;
+}
+
+#select_question{
+	margin-top: 31%;
+	margin-left: 135%;
+}
+
+#answer{
+	margin-top: 14.5%;
+	margin-left: 9.8%;
+}
